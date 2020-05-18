@@ -1,0 +1,56 @@
+	body{
+			text-align: center;
+			margin-top: 50px;
+		}
+		a{
+			margin: 5px;
+		}
+		.a{
+			background-color: gray;
+			color: white;
+			text-decoration: none;
+			font-size: 36px;
+			font-weight: bolder;
+		}
+		.b{
+			background-color: red;
+			color: white;
+			text-decoration: none;
+			font-size: 36px;
+			font-weight: bolder;
+		}
+		.c{
+			background-color: blue;
+			color: white;
+			text-decoration: none;
+			font-size: 36px;
+			font-weight: bolder;
+		}
+		.d{
+			background-color: green;
+			color: white;
+			text-decoration: none;
+			font-size: 36px;
+			font-weight: bolder;
+		}
+		.e{
+			background-color: yellow;
+			color: white;
+			text-decoration: none;
+			font-size: 36px;
+			font-weight: bolder;
+		}
+		.f{
+			background-color: black;
+			color: white;
+			text-decoration: none;
+			font-size: 36px;
+			font-weight: bolder;
+		}
+		.i{
+			background-color: purple;
+			color: white;
+			text-decoration: none;
+			font-size: 36px;
+			font-weight: bolder;
+		}
